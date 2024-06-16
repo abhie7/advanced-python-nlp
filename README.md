@@ -11,10 +11,10 @@
 ### Advanced Python Concepts
 - [x] OOPS
 - [x] Multithreading
-- [x] Sychronizing threads
-- [x] Semaphores
-- [x] Events
-- [x] Daemon
+  - [x] Sychronizing threads
+  - [x] Semaphores
+  - [x] Events
+  - [x] Daemon
 - [ ] Map functions
 - [ ] Itertools
 - [ ] Lambda functions
@@ -33,7 +33,17 @@
 ### Machine Learning Fundamentals
 - [ ] What is Machine Learning?
 - [ ] Supervised, Unsupervised, and Reinforcement Learning
-- [ ] Common Machine Learning Algorithms (e.g., Linear Regression, Logistic Regression, Decision Trees, Random Forests)
+- [ ] Common Machine Learning Algorithms
+  - [ ] Linear Regression
+  - [ ] Logistic Regression
+  - [ ] Decision Trees
+  - [ ] Random Forests
+  - [ ] Support Vector Machines (SVMs)
+  - [ ] K-Nearest Neighbors
+  - [ ] Naive Bayes
+  - [ ] K-Means Clustering
+  - [ ] Principal Component Analysis (PCA)
+  - [ ] Gradient Boosting Machines
 
 ### Natural Language Processing (NLP) Fundamentals
 - [ ] What is NLP?
