@@ -48,7 +48,8 @@
 ### Natural Language Processing (NLP) Fundamentals
 - [ ] What is NLP?
 - [ ] Text Preprocessing
-  - [ ] Tokenization
+  - [ ] Text Normalization
+  - [ ] Text Tokenization
   - [ ] Stopword Removal
   - [ ] Stemming
   - [ ] Lemmatization
@@ -74,6 +75,8 @@
 - [ ] Tokenization
 - [ ] Vectors and Embeddings
 - [ ] Faiss and Pinecone
+- [ ] NLTK
+- [ ] spaCy
 
 ### Advanced NLP Concepts
 - [ ] Tokenization Techniques
@@ -87,14 +90,15 @@
 - [ ] Text Generation
 - [ ] Sentiment Analysis
 - [ ] Text Summarization
+- [ ] Fine Tuning
 
 ## Part 4: Deep Learning 
 
 ### Deep Learning Basics
 - [ ] Neural Networks
   - [ ] Feedforward
-  - [ ] Convolutional
-  - [ ] Recurrent
+  - [ ] Convolutional Neural Networks (CNNs)
+  - [ ] Recurrent Neural Networks (RNNs)
 - [ ] Activation Functions
 - [ ] Backpropagation
 - [ ] Optimization Techniques
