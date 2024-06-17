@@ -46,12 +46,12 @@
   - [ ] Gradient Boosting Machines
 
 ### Transformers and Large Language Models (LLMs)
-- [x] Overview of NLP - [Huggingface Documentation](https://huggingface.co/learn/nlp-course/chapter1/2?fw=pt)
-- [x] What is LLM and understanding the working of an LLM - [Video](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
+- [x] Overview of NLP • [Huggingface Documentation](https://huggingface.co/learn/nlp-course/chapter1/2?fw=pt)
+- [x] What is LLM and understanding the working of an LLM • [Video](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
 - [x] Transformer Architecture
-      - [Short Video](https://www.youtube.com/watch?v=ZXiruGOCn9s)
-      - [Detailed Video](https://www.youtube.com/watch?v=wjZofJX0v4M)
-      - [Huggingface Documentation](https://huggingface.co/learn/nlp-course/chapter1/3?fw=pt)
+      • [Short Video](https://www.youtube.com/watch?v=ZXiruGOCn9s)
+      • [Detailed Video](https://www.youtube.com/watch?v=wjZofJX0v4M)
+      • [Huggingface Documentation](https://huggingface.co/learn/nlp-course/chapter1/3?fw=pt)
 - [ ] Attention Mechanism
 - [ ] Pre-training
 - [ ] Fine-tuning
