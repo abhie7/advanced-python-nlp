@@ -45,6 +45,13 @@
   - [ ] Principal Component Analysis (PCA)
   - [ ] Gradient Boosting Machines
 
+### Transformers and Large Language Models (LLMs)
+- [x] What is LLM and understanding the working of an LLM - [Video](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
+- [x] Transformer Architecture - [Brief Explanation](https://www.youtube.com/watch?v=ZXiruGOCn9s) [Detail Explanation](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- [ ] Attention Mechanism
+- [ ] Pre-training
+- [ ] Fine-tuning
+
 ### Natural Language Processing (NLP) Fundamentals
 - [ ] What is NLP?
 - [ ] Text Preprocessing
@@ -59,13 +66,6 @@
   - [ ] GloVe
 
 ## Part 3: NLP Applications and Tools
-
-### Transformers and Large Language Models (LLMs)
-- [ ] Understanding the working of an LLM
-- [ ] Transformer Architecture
-- [ ] Attention Mechanism
-- [ ] Pre-training
-- [ ] Fine-tuning
 
 ### NLP Tools and Libraries
 - [ ] PyTorch
