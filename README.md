@@ -33,7 +33,7 @@
 ### Machine Learning Fundamentals
 - [ ] What is Machine Learning?
 - [ ] Supervised, Unsupervised, and Reinforcement Learning
-- [ ] Common Machine Learning Algorithms
+- [ ] Common Machine Learning Algorithms [PDF](nlp/ML_Algorithms.pdf)
   - [ ] Linear Regression
   - [ ] Logistic Regression
   - [ ] Decision Trees
