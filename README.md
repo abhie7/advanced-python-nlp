@@ -52,18 +52,18 @@
       • [Short Video](https://www.youtube.com/watch?v=ZXiruGOCn9s)
       • [Detailed Video](https://www.youtube.com/watch?v=wjZofJX0v4M)
       • [Huggingface Documentation](https://huggingface.co/learn/nlp-course/chapter1/3?fw=pt)
-- [ ] Attention Mechanism
 - [ ] Pre-training
 - [ ] Fine-tuning
 
 ### Natural Language Processing (NLP) Fundamentals
 - [x] What is NLP? • [Video](https://www.youtube.com/watch?v=fLvJ8VdHLA0)
-- [ ] Text Preprocessing
-  - [ ] Text Normalization
+- [x] Text Preprocessing
+  - [x] Text Normalization
   - [x] Text Tokenization
   - [x] Stopword Removal
-  - [ ] Stemming
-  - [ ] Lemmatization
+- [x] Attention Mechanism • [Huggingface Documentation](https://huggingface.co/learn/nlp-course/chapter2/5?fw=pt#attention-masks)
+- [x] Stemming • [IBM Documentation](https://www.ibm.com/topics/stemming)
+- [x] Lemmatization • [IBM Documentation](https://www.ibm.com/topics/stemming-lemmatization)
 - [ ] Bag-of-Words and TF-IDF
 - [ ] Word Embeddings
   - [ ] Word2Vec
@@ -71,14 +71,15 @@
 
 ## Part 3: NLP Applications and Tools
 
-### NLP Tools and Libraries
+### NLP Tools, Libraries and Frameworks
 - [ ] PyTorch
 - [ ] Hugging Face Transformers
 - [ ] LlamaIndex
 - [ ] Langchain
 - [ ] Tokenization
 - [ ] Vectors and Embeddings
-- [ ] Faiss and Pinecone
+- [ ] Faiss
+- [ ] Pinecone
 - [ ] NLTK
 - [ ] spaCy
 
@@ -86,7 +87,7 @@
 - [ ] Tokenization Techniques
   - [ ] Byte Encoder
   - [ ] Cross Encoder
-- [ ] Retrieval Augmented Generation (RAG)
+- [ ] Retrieval Augmented Generation (RAG) • [Short Video](https://www.youtube.com/watch?v=2l1IPCfyDjY)
 
 ### NLP Applications
 - [ ] Text Classification
