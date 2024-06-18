@@ -33,7 +33,7 @@
 ### Machine Learning Fundamentals
 - [ ] What is Machine Learning?
 - [ ] Supervised, Unsupervised, and Reinforcement Learning
-- [ ] Common Machine Learning Algorithms [PDF](nlp/ML_Algorithms.pdf)
+- [ ] Common Machine Learning Algorithms • [PDF](nlp/ML_Algorithms.pdf)
   - [ ] Linear Regression
   - [ ] Logistic Regression
   - [ ] Decision Trees
@@ -57,7 +57,7 @@
 - [ ] Fine-tuning
 
 ### Natural Language Processing (NLP) Fundamentals
-- [x] What is NLP? [Video](https://www.youtube.com/watch?v=fLvJ8VdHLA0)
+- [x] What is NLP? • [Video](https://www.youtube.com/watch?v=fLvJ8VdHLA0)
 - [ ] Text Preprocessing
   - [ ] Text Normalization
   - [x] Text Tokenization
