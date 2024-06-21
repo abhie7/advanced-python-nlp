@@ -1,0 +1,13 @@
+{
+    "information technology": {
+        "artificial intelligence": {
+            "machine learning": ["python", "statistics", "applied mathematics", "nltk"],
+            "neural language processing": ["python", "statistics", "retrieval augmented generation", "langchain"],
+            "computer vision": ["python", "statistics", "opencv", "yolo"]
+        },
+        "web development": {
+            "frontend": ["javascript", "css", "html", "reactjs", "react js", "react.js", "angular"],
+            "backend": ["javascript", "node.js", "node js", "nodejs", "express js", "express.js", "express js"]
+        }
+    }
+}
