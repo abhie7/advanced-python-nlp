@@ -1,0 +1,18 @@
+("Python" AND ("Numpy" OR "Seaborn")) OR ("Ruby" AND "Rails") OR ("Java" AND "Spring")
+("Numpy" OR "Seaborn") AND ("Pandas" OR "SQL") AND "Python"
+("React" OR "Next" OR "Vue") AND "Node" AND "Python"
+("Python" AND "Django") OR ("Java" AND "Spring")
+("Python" OR "Java") AND ("Django" OR "Flask") AND "API"
+("Python" AND ("Django" OR "Flask")) OR ("Java" AND "Spring") AND "API"
+""
+"Python"
+("Python" OR "Java" OR "C++") AND "Spring"
+("Python" OR "Java") AND "API" AND ("Django" OR "Flask")
+("Python" AND ("Django" OR ("Flask" AND "REST"))) OR ("Java" AND "Spring")
+("Python" OR "Java") AND ("Django" OR "Flask") AND ("REST" OR "GraphQL")
+("application" OR "API" OR "microservices" OR "server side") AND ("Python" OR "Ruby" OR "Java" OR "GO" OR "Node" OR "Scala" OR 'C' OR 'C++' OR "C#") AND ("Spring" OR "Rails" OR "Django" OR "Flask")
+'application' OR 'API' OR 'microservices' OR 'server side'
+(('application' OR 'API') OR 'microservices' OR "server side") AND ('Python' OR 'Ruby' OR 'Java' OR 'GO' OR 'Node' OR 'Scala' OR 'C' OR 'C++' OR 'C#') AND ('Spring' OR 'Rails' OR 'Django' OR 'Flask')
+'DevOps' AND ('SRE' OR "site reliability")
+('Python' OR 'GO') AND ('Docker' OR 'Kubernetes' OR 'Ansible' OR 'Chef' OR 'Terraform') AND ('AWS' OR "Amazon Web Services" OR 'Azure' OR 'GCP' OR "Google Cloud Platform")
+("Node" OR "NodeJS") AND ("React" OR "ReactJS" OR "React.JS" OR "React JS") AND ("Angular" OR ("Express" OR "Express JS" OR "Express.js") OR ("Vue" OR "VueJS"))
