@@ -1,0 +1,412 @@
+[
+    {
+        "name": "Abhiraj Chaudhuri",
+        "email": "abhi.chaudhuri@example.com",
+        "phone": "+1234567890",
+        "location": "New York, NY",
+        "about_me": "Experienced software engineer with a passion for developing scalable web applications.",
+        "skills": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "Node.js",
+            "React",
+            "MySQL",
+            "MongoDB"
+        ],
+        "experience": [
+            {
+                "title": "Senior Software Engineer",
+                "company": "Tech Solutions Inc.",
+                "dates": "2018 - Present",
+                "description": "Lead a team of developers in building robust backend services for a SaaS platform."
+            },
+            {
+                "title": "Software Developer",
+                "company": "WebTech Enterprises",
+                "dates": "2015 - 2018",
+                "description": "Developed frontend components and integrated RESTful APIs for e-commerce applications."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Computer Science",
+                "university": "University of California, Berkeley",
+                "graduation_year": "2015"
+            }
+        ],
+        "certifications": [
+            "AWS Certified Solutions Architect - Associate",
+            "Certified ScrumMaster (CSM)"
+        ]
+    },
+    {
+        "name": "Yami Patel",
+        "email": "yami.patel@example.com",
+        "phone": "+1987654321",
+        "location": "San Francisco, CA",
+        "about_me": "Full-stack developer specializing in building responsive web applications and microservices.",
+        "skills": [
+            "JavaScript",
+            "React",
+            "Vue.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "PostgreSQL"
+        ],
+        "experience": [
+            {
+                "title": "Full-stack Developer",
+                "company": "Tech Innovations Ltd.",
+                "dates": "2017 - Present",
+                "description": "Designed and implemented RESTful APIs and built frontend interfaces using React and Vue.js."
+            },
+            {
+                "title": "Junior Software Engineer",
+                "company": "CodeCrafters Inc.",
+                "dates": "2015 - 2017",
+                "description": "Contributed to the development of a scalable microservices architecture for a fintech startup."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Engineering in Computer Science",
+                "university": "Stanford University",
+                "graduation_year": "2015"
+            }
+        ],
+        "certifications": [
+            "Google Certified Professional Cloud Architect",
+            "CompTIA Security+"
+        ]
+    },
+    {
+        "name": "Antariksh Sisodiya",
+        "email": "antariksh.sisodiya@example.com",
+        "phone": "+1654321879",
+        "location": "Chicago, IL",
+        "about_me": "Passionate software engineer with a focus on backend development and system architecture.",
+        "skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "Java",
+            "Spring Boot",
+            "AWS",
+            "SQL"
+        ],
+        "experience": [
+            {
+                "title": "Backend Developer",
+                "company": "Data Systems Corp.",
+                "dates": "2016 - Present",
+                "description": "Designed and implemented RESTful APIs and optimized database queries for performance."
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "Tech Solutions Co.",
+                "dates": "2015 - 2016",
+                "description": "Developed microservices using Django and Flask for data analytics applications."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Science in Computer Engineering",
+                "university": "Massachusetts Institute of Technology (MIT)",
+                "graduation_year": "2015"
+            }
+        ],
+        "certifications": [
+            "Certified Kubernetes Administrator (CKA)",
+            "Oracle Certified Professional, Java SE Programmer"
+        ]
+    },
+    {
+        "name": "Pinkal Shah",
+        "email": "pinkal.shah@example.com",
+        "phone": "+1765432109",
+        "location": "Los Angeles, CA",
+        "about_me": "Frontend developer passionate about creating intuitive user interfaces and responsive web designs.",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "React",
+            "Angular",
+            "Sass",
+            "Bootstrap"
+        ],
+        "experience": [
+            {
+                "title": "Frontend Developer",
+                "company": "WebDesigns Ltd.",
+                "dates": "2017 - Present",
+                "description": "Developed reusable components and optimized frontend performance for high-traffic websites."
+            },
+            {
+                "title": "Web Developer",
+                "company": "Pixel Perfect Inc.",
+                "dates": "2015 - 2017",
+                "description": "Implemented responsive designs and integrated frontend with backend APIs."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Arts in Computer Science",
+                "university": "University of California, Los Angeles (UCLA)",
+                "graduation_year": "2015"
+            }
+        ],
+        "certifications": [
+            "Certified Scrum Developer (CSD)",
+            "AWS Certified Developer - Associate"
+        ]
+    },
+    {
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "phone": "+1876543210",
+        "location": "Seattle, WA",
+        "about_me": "Experienced DevOps engineer proficient in automating CI/CD pipelines and cloud infrastructure management.",
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Terraform",
+            "AWS",
+            "Linux",
+            "Python"
+        ],
+        "experience": [
+            {
+                "title": "DevOps Engineer",
+                "company": "Cloud Solutions Co.",
+                "dates": "2016 - Present",
+                "description": "Automated deployment processes and optimized infrastructure cost using cloud-native tools."
+            },
+            {
+                "title": "Systems Administrator",
+                "company": "Network Services Ltd.",
+                "dates": "2014 - 2016",
+                "description": "Managed Linux servers and implemented network security protocols for enterprise clients."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science in Information Technology",
+                "university": "University of Washington",
+                "graduation_year": "2014"
+            }
+        ],
+        "certifications": [
+            "Certified Kubernetes Application Developer (CKAD)",
+            "AWS Certified Solutions Architect - Professional"
+        ]
+    },
+    {
+        "name": "Sarah Lee",
+        "email": "sarah.lee@example.com",
+        "phone": "+1987654321",
+        "location": "Boston, MA",
+        "about_me": "Software architect with a focus on designing scalable and fault-tolerant distributed systems.",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "Kafka",
+            "Elasticsearch",
+            "MySQL",
+            "AWS"
+        ],
+        "experience": [
+            {
+                "title": "Software Architect",
+                "company": "TechArchitects Inc.",
+                "dates": "2015 - Present",
+                "description": "Designed and implemented microservices architecture using Spring Boot and Kafka."
+            },
+            {
+                "title": "Senior Software Engineer",
+                "company": "CodeCrafters Inc.",
+                "dates": "2010 - 2015",
+                "description": "Led backend development projects and mentored junior engineers."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Computer Science",
+                "university": "Harvard University",
+                "graduation_year": "2010"
+            }
+        ],
+        "certifications": [
+            "AWS Certified Solutions Architect - Associate",
+            "Certified Scrum Professional (CSP)"
+        ]
+    },
+    {
+        "name": "Kevin Miller",
+        "email": "kevin.miller@example.com",
+        "phone": "+1654321879",
+        "location": "Austin, TX",
+        "about_me": "Data scientist with expertise in machine learning algorithms and big data analytics.",
+        "skills": [
+            "Python",
+            "R",
+            "TensorFlow",
+            "Spark",
+            "SQL",
+            "Tableau",
+            "Machine Learning"
+        ],
+        "experience": [
+            {
+                "title": "Data Scientist",
+                "company": "Data Insights Co.",
+                "dates": "2017 - Present",
+                "description": "Developed predictive models and conducted statistical analysis on large datasets."
+            },
+            {
+                "title": "Research Assistant",
+                "company": "Analytics Research Institute",
+                "dates": "2015 - 2017",
+                "description": "Conducted research on deep learning algorithms and implemented prototypes."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Ph.D. in Computer Science",
+                "university": "University of Texas at Austin",
+                "graduation_year": "2015"
+            }
+        ],
+        "certifications": [
+            "Google Certified Professional Data Engineer",
+            "Microsoft Certified: Azure AI Engineer Associate"
+        ]
+    },
+    {
+        "name": "Emma Brown",
+        "email": "emma.brown@example.com",
+        "phone": "+1234567890",
+        "location": "Washington, D.C.",
+        "about_me": "Cybersecurity specialist focused on implementing robust security measures and conducting vulnerability assessments.",
+        "skills": [
+            "Cybersecurity",
+            "Network Security",
+            "Penetration Testing",
+            "SIEM",
+            "Firewalls",
+            "Encryption",
+            "Compliance"
+        ],
+        "experience": [
+            {
+                "title": "Cybersecurity Analyst",
+                "company": "SecureTech Solutions",
+                "dates": "2016 - Present",
+                "description": "Performed penetration testing and vulnerability assessments to enhance security posture."
+            },
+            {
+                "title": "Security Consultant",
+                "company": "Defense Systems Inc.",
+                "dates": "2013 - 2016",
+                "description": "Designed and implemented network security solutions for government and enterprise clients."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Master of Science in Information Security",
+                "university": "George Washington University",
+                "graduation_year": "2013"
+            }
+        ],
+        "certifications": [
+            "Certified Information Systems Security Professional (CISSP)",
+            "Certified Ethical Hacker (CEH)"
+        ]
+    },
+    {
+        "name": "Daniel Taylor",
+        "email": "daniel.taylor@example.com",
+        "phone": "+1987654321",
+        "location": "San Jose, CA",
+        "about_me": "AI and machine learning enthusiast with a focus on developing scalable and efficient algorithms.",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn"
+        ],
+        "experience": [
+            {
+                "title": "Machine Learning Engineer",
+                "company": "AI Innovations Ltd.",
+                "dates": "2017 - Present",
+                "description": "Developed and deployed machine learning models for real-time data analysis and prediction."
+            },
+            {
+                "title": "Research Assistant",
+                "company": "AI Research Institute",
+                "dates": "2015 - 2017",
+                "description": "Conducted research on neural networks and implemented algorithms for text classification."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Ph.D. in Computer Science",
+                "university": "Stanford University",
+                "graduation_year": "2015"
+            }
+        ],
+        "certifications": [
+            "Google Certified Professional Data Engineer",
+            "Microsoft Certified: Azure AI Engineer Associate"
+        ]
+    },
+    {
+        "name": "Olivia Garcia",
+        "email": "olivia.garcia@example.com",
+        "phone": "+1654321879",
+        "location": "Miami, FL",
+        "about_me": "UX/UI designer with a passion for creating intuitive and visually appealing user interfaces.",
+        "skills": [
+            "User Experience Design",
+            "User Interface Design",
+            "Wireframing",
+            "Prototyping",
+            "Adobe XD",
+            "Sketch",
+            "InVision"
+        ],
+        "experience": [
+            {
+                "title": "UX/UI Designer",
+                "company": "Design Solutions Inc.",
+                "dates": "2016 - Present",
+                "description": "Designed user interfaces and conducted usability testing to improve user experience."
+            },
+            {
+                "title": "Graphic Designer",
+                "company": "Creative Design Studios",
+                "dates": "2014 - 2016",
+                "description": "Created marketing materials and branding assets for various clients."
+            }
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Fine Arts in Graphic Design",
+                "university": "University of Miami",
+                "graduation_year": "2014"
+            }
+        ],
+        "certifications": [
+            "Certified UX Designer (CXD)",
+            "Adobe Certified Expert (ACE)"
+        ]
+    }
+]
